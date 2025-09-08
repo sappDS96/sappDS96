@@ -29,6 +29,41 @@
 
 ---
 
+# 🚀 **Proyectos de Data Science**
+
+🛰️ **Predicción de abandono de clientes (Telecom) – Sprint 9**
+- 🔍 Predije el churn utilizando Árboles de Decisión, Bosques Aleatorios y Regresión Logística.
+- 📊 Comparé múltiples modelos de Machine Learning y seleccioné el más preciso.
+- 🛠️ Herramientas: Python, Scikit-learn, Matplotlib
+[🔗 Ver Proyecto]([https://github.com/sappDS96/churn-prediction](https://github.com/sappDS96/Tripleten/tree/37e6af91a09e3459cc51b3dbd7b72b8c58a08b3d/09_Predicci%C3%B3n_de_Abandono_de_Clientes))  
+
+---
+
+🎮 **Predicción de ingresos de videojuegos – Sprint 8**
+- 🧠 Construí modelos predictivos (regresión y clasificación) para estimar ventas.
+- ⚙️ Ajusté hiperparámetros para optimizar las métricas de desempeño.
+- 🛠️ Herramientas: Python, Scikit-learn, Pandas
+[🔗 Ver Proyecto]([https://github.com/sappDS96/video-game-prediction](https://github.com/sappDS96/Tripleten/tree/37e6af91a09e3459cc51b3dbd7b72b8c58a08b3d/08_Predicci%C3%B3n_de_ingresos_de_videojuegos)
+
+---
+
+📡 **Segmentación de clientes con clustering – Sprint 5**
+- 📈 Apliqué KMeans para segmentación no supervisada de clientes.
+- 💡 Identifiqué patrones de consumo y generé insights para marketing.
+- 🛠️ Herramientas: Python, Scikit-learn, Matplotlib
+[🔗 View Project](https://github.com/sappDS96/Tripleten/tree/a48236c25b663d3466ddc1201b24204041f8a557/05_rentabilidad_planes_moviles)  
+
+---
+
+- 🔄 **Análisis de cohortes para retención de clientes – Sprint 6**
+- 📊 Implementé análisis de cohortes en Python para medir la retención de clientes.
+- 📉 Visualicé tasas de retención y el comportamiento de los clientes a lo largo del tiempo.
+- 🛠️ Herramientas: Python, Pandas, Matplotlib
+[🔗 Ver Proyecto]([https://github.com/sappDS96/cohort-analysis](https://github.com/sappDS96/Tripleten/tree/a48236c25b663d3466ddc1201b24204041f8a557/06_preferencias_videojuegos_validacion))  
+
+
+---
+
 # 🚀 Data Science Projects  
 
 ## 🛰️ Customer Churn Prediction (Telecom) – Sprint 9  
