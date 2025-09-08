@@ -26,6 +26,45 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
 
+
+---
+
+# 🚀 Data Science Projects  
+
+## 🛰️ Customer Churn Prediction (Telecom) – Sprint 9  
+- 🔍 Predicted churn using Decision Trees, Random Forest & Logistic Regression.  
+- 📊 Compared multiple ML models and selected the most accurate one.  
+- 🛠️ Tools: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=plotly&logoColor=white)  
+
+[🔗 View Project]([https://github.com/sappDS96/churn-prediction](https://github.com/sappDS96/Tripleten/tree/37e6af91a09e3459cc51b3dbd7b72b8c58a08b3d/09_Predicci%C3%B3n_de_Abandono_de_Clientes))  
+
+---
+
+## 🎮 Video Game Revenue Prediction – Sprint 8  
+- 🧠 Built predictive models (regression & classification) to estimate sales.  
+- ⚙️ Tuned hyperparameters to optimize performance metrics.  
+- 🛠️ Tools: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)  
+
+[🔗 View Project]([https://github.com/sappDS96/video-game-prediction](https://github.com/sappDS96/Tripleten/tree/37e6af91a09e3459cc51b3dbd7b72b8c58a08b3d/08_Predicci%C3%B3n_de_ingresos_de_videojuegos))  
+
+---
+
+## 📡 Customer Segmentation with Clustering – Sprint 5  
+- 📈 Applied KMeans for unsupervised customer segmentation.  
+- 💡 Identified consumption patterns and marketing insights.  
+- 🛠️ Tools: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=plotly&logoColor=white)  
+
+[🔗 View Project](https://github.com/sappDS96/Tripleten/tree/a48236c25b663d3466ddc1201b24204041f8a557/05_rentabilidad_planes_moviles)  
+
+---
+
+## 🔄 Cohort Analysis for Customer Retention – Sprint 6  
+- 📊 Applied cohort analysis in Python to measure customer retention.  
+- 📉 Visualized retention rates and customer behavior over time.  
+- 🛠️ Tools: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=plotly&logoColor=white)  
+
+[🔗 View Project]([https://github.com/sappDS96/cohort-analysis](https://github.com/sappDS96/Tripleten/tree/a48236c25b663d3466ddc1201b24204041f8a557/06_preferencias_videojuegos_validacion))  
+
 ---
 
 ## 🌐 Connect with me | Conecta conmigo  
