@@ -2,7 +2,7 @@
 
 🎓 Ingeniero Químico con Máster en Energías Renovables  
 💻 En transición hacia Data Science & Machine Learning  
-📊 Experiencia en Python, SQL, Power BI, Machine Learning y Visualización de Datos  
+📊 Experiencia en Python, SQL, Machine Learning y Visualización de Datos  
 🌱 Apasionado por la sostenibilidad, la energía y la innovación tecnológica  
 📍 Actualmente en Madrid, España  
 
@@ -12,7 +12,7 @@
 
 🎓 Chemical Engineer with a Master’s in Renewable Energy  
 💻 Transitioning into Data Science & Machine Learning  
-📊 Skilled in Python, SQL, Power BI, Machine Learning and Data Visualization  
+📊 Skilled in Python, SQL, Machine Learning and Data Visualization  
 🌱 Passionate about sustainability, energy, and tech innovation  
 📍 Currently based in Madrid, Spain  
 
