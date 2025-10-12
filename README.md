@@ -110,7 +110,7 @@
 - 📉 Deliverables: confusion matrix, ROC/PR curves, and threshold recommendation.
 - 🛠️ Herramientas: ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white) ![matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white)  
   
-[🔗 View Project](https://github.com/sappDS96/Tripleten/tree/37e6af91a09e3459cc51b3dbd7b72b8c58a08b3d/09_Predicci%C3%B3n_de_Abandono_de_Clientes) 
+[🔗 View Project](https://github.com/sappDS96/Tripleten/tree/main/10_Clasificaci%C3%B3n_con_modelos_supervisados)
 
 
 ---
