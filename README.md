@@ -47,7 +47,7 @@
 - ⚖️ Recomendación final balanceando retorno y riesgo.
 - 🛠️ Herramientas: ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) ![matplotlib]([https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white])
   
-[🔗 Ver Proyecto](11_Selección_región_para_perforación_(Bootstrapping)) 
+[🔗 Ver Proyecto](https://github.com/sappDS96/Tripleten/tree/main/11_Selecci%C3%B3n_regi%C3%B3n_para_perforaci%C3%B3n_(Bootstrapping))) 
 
 ---
 
@@ -57,7 +57,7 @@
 - 📉 Entregables: matriz de confusión, curvas ROC/PR y recomendación de umbral.
 - 🛠️ Herramientas: ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white) ![matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white)  
   
-[🔗 Ver Proyecto](https://github.com/sappDS96/Tripleten/tree/37e6af91a09e3459cc51b3dbd7b72b8c58a08b3d/09_Predicci%C3%B3n_de_Abandono_de_Clientes)
+[🔗 Ver Proyecto]([https://github.com/sappDS96/Tripleten/tree/37e6af91a09e3459cc51b3dbd7b72b8c58a08b3d/09_Predicci%C3%B3n_de_Abandono_de_Clientes](https://github.com/sappDS96/Tripleten/tree/main/10_Clasificaci%C3%B3n_con_modelos_supervisados))
 
 ---
 
