@@ -37,7 +37,7 @@
 - 🎯 Métrica final 25/75 (rougher/final) y visualizaciones para soporte operativo.  
 - 🛠️ Herramientas: ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white) ![matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white)  
   
-[🔗 Ver Proyecto](https://github.com/sappDS96/Tripleten/tree/37e6af91a09e3459cc51b3dbd7b72b8c58a08b3d/09_Predicci%C3%B3n_de_Abandono_de_Clientes)
+[🔗 Ver Proyecto](https://github.com/sappDS96/Tripleten/tree/d14147fa119c462ca37c19cbc445303cb23cab57/12_Optimizaci%C3%B3n_proceso_recuperaci%C3%B3n_Oro)
 
 ---
 
@@ -45,7 +45,7 @@
 - 📊 Ranking de top-200 pozos por región e ingresos esperados (precio/CAPEX).
 - 🎲 Bootstrapping (1000) → distribución de beneficios, IC95% y probabilidad de pérdida.
 - ⚖️ Recomendación final balanceando retorno y riesgo.
-- 🛠️ Herramientas: ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) ![matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white)  
+- 🛠️ Herramientas: ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) ![matplotlib]([https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white](https://github.com/sappDS96/Tripleten/tree/d14147fa119c462ca37c19cbc445303cb23cab57/11_Selecci%C3%B3n_regi%C3%B3n_para_perforaci%C3%B3n_(Bootstrapping)))  
   
 [🔗 Ver Proyecto](https://github.com/sappDS96/Tripleten/tree/37e6af91a09e3459cc51b3dbd7b72b8c58a08b3d/09_Predicci%C3%B3n_de_Abandono_de_Clientes) 
 
@@ -57,7 +57,7 @@
 - 📉 Entregables: matriz de confusión, curvas ROC/PR y recomendación de umbral.
 - 🛠️ Herramientas: ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white) ![matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white)  
   
-[🔗 Ver Proyecto]([https://github.com/sappDS96/Tripleten/tree/37e6af91a09e3459cc51b3dbd7b72b8c58a08b3d/09_Predicci%C3%B3n_de_Abandono_de_Clientes](https://github.com/sappDS96/Tripleten/tree/37e6af91a09e3459cc51b3dbd7b72b8c58a08b3d/09_Predicci%C3%B3n_de_Abandono_de_Clientes)) 
+[🔗 Ver Proyecto](https://github.com/sappDS96/Tripleten/tree/37e6af91a09e3459cc51b3dbd7b72b8c58a08b3d/09_Predicci%C3%B3n_de_Abandono_de_Clientes)
 
 ---
 
@@ -88,7 +88,7 @@
 - 🎯 Final metric 25/75 (rougher/final) and visualizations to support operations.  
 - 🛠️ Herramientas: ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white) ![matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white)  
   
-[🔗 View Project](https://github.com/sappDS96/Tripleten/tree/37e6af91a09e3459cc51b3dbd7b72b8c58a08b3d/09_Predicci%C3%B3n_de_Abandono_de_Clientes)
+[🔗 View Project](https://github.com/sappDS96/Tripleten/tree/d14147fa119c462ca37c19cbc445303cb23cab57/12_Optimizaci%C3%B3n_proceso_recuperaci%C3%B3n_Oro)
 
 ---
 
@@ -98,7 +98,7 @@
 - ⚖️ Final recommendation balancing return and risk.  
 - 🛠️ Herramientas: ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white) ![matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white)  
   
-[🔗 View Project](https://github.com/sappDS96/Tripleten/tree/37e6af91a09e3459cc51b3dbd7b72b8c58a08b3d/09_Predicci%C3%B3n_de_Abandono_de_Clientes) 
+[🔗 View Project](https://github.com/sappDS96/Tripleten/tree/d14147fa119c462ca37c19cbc445303cb23cab57/11_Selecci%C3%B3n_regi%C3%B3n_para_perforaci%C3%B3n_(Bootstrapping))
 
 
 ---
@@ -110,7 +110,7 @@
 - 📉 Deliverables: confusion matrix, ROC/PR curves, and threshold recommendation.
 - 🛠️ Herramientas: ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white) ![matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white)  
   
-[🔗 View Project]([https://github.com/sappDS96/Tripleten/tree/37e6af91a09e3459cc51b3dbd7b72b8c58a08b3d/09_Predicci%C3%B3n_de_Abandono_de_Clientes](https://github.com/sappDS96/Tripleten/tree/37e6af91a09e3459cc51b3dbd7b72b8c58a08b3d/09_Predicci%C3%B3n_de_Abandono_de_Clientes)) 
+[🔗 View Project](https://github.com/sappDS96/Tripleten/tree/37e6af91a09e3459cc51b3dbd7b72b8c58a08b3d/09_Predicci%C3%B3n_de_Abandono_de_Clientes) 
 
 
 ---
