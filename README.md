@@ -31,10 +31,40 @@
 
 # 🚀 **Proyectos de Data Science**
 
+## **🧪 Optimización del proceso de flotación – recuperación de oro - Sprint 12**
+- 🧼 Preparé y limpié los datos, analizando composición por etapa y distribución de tamaños.  
+- 📈 Modele con regresión lineal, árboles y Random Forest usando validación cruzada.  
+- 🎯 Métrica final 25/75 (rougher/final) y visualizaciones para soporte operativo.  
+- 🛠️ Herramientas: ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white) ![matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white)  
+  
+[🔗 Ver Proyecto](https://github.com/sappDS96/Tripleten/tree/37e6af91a09e3459cc51b3dbd7b72b8c58a08b3d/09_Predicci%C3%B3n_de_Abandono_de_Clientes)
+
+---
+
+## **🛢️ Selección de región para perforación – análisis económico con bootstrapping - Sprint 11**
+- 📊 Ranking de top-200 pozos por región e ingresos esperados (precio/CAPEX).
+- 🎲 Bootstrapping (1000) → distribución de beneficios, IC95% y probabilidad de pérdida.
+- ⚖️ Recomendación final balanceando retorno y riesgo.
+- 🛠️ Herramientas: ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) ![matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white)  
+  
+[🔗 Ver Proyecto](https://github.com/sappDS96/Tripleten/tree/37e6af91a09e3459cc51b3dbd7b72b8c58a08b3d/09_Predicci%C3%B3n_de_Abandono_de_Clientes) 
+
+---
+
+## **⚖️ Clasificación con clases desbalanceadas y ajuste de umbral  - Sprint 10**
+- 🧹 Preparación (OHE, escalado) y balanceo (upsampling, downsampling, class_weight).
+- 🎯 Ajuste de umbral según objetivo (recall/precisión) y comparación de modelos.  
+- 📉 Entregables: matriz de confusión, curvas ROC/PR y recomendación de umbral.
+- 🛠️ Herramientas: ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white) ![matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white)  
+  
+[🔗 Ver Proyecto](https://github.com/sappDS96/Tripleten/tree/37e6af91a09e3459cc51b3dbd7b72b8c58a08b3d/09_Predicci%C3%B3n_de_Abandono_de_Clientes) 
+
+---
+
 ## 🛰️ **Predicción de abandono de clientes (Telecom) – Sprint 9**
 - 🔍 Predije el churn utilizando Árboles de Decisión, Bosques Aleatorios y Regresión Logística.
 - 📊 Comparé múltiples modelos de Machine Learning y seleccioné el más preciso.
-- 🛠️ Herramientas: Python, Scikit-learn, Matplotlib
+- 🛠️ Herramientas: ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white) ![matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white)  
   
 [🔗 Ver Proyecto](https://github.com/sappDS96/Tripleten/tree/37e6af91a09e3459cc51b3dbd7b72b8c58a08b3d/09_Predicci%C3%B3n_de_Abandono_de_Clientes) 
 
@@ -43,32 +73,47 @@
 ## 🎮 **Predicción de ingresos de videojuegos – Sprint 8**
 - 🧠 Construí modelos predictivos (regresión y clasificación) para estimar ventas.
 - ⚙️ Ajusté hiperparámetros para optimizar las métricas de desempeño.
-- 🛠️ Herramientas: Python, Scikit-learn, Pandas
+- 🛠️ Herramientas: ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)
   
 [🔗 Ver Proyecto](https://github.com/sappDS96/Tripleten/tree/37e6af91a09e3459cc51b3dbd7b72b8c58a08b3d/08_Predicci%C3%B3n_de_ingresos_de_videojuegos)
-
----
-
-## 📡 **Segmentación de clientes con clustering – Sprint 5**
-- 📈 Apliqué KMeans para segmentación no supervisada de clientes.
-- 💡 Identifiqué patrones de consumo y generé insights para marketing.
-- 🛠️ Herramientas: Python, Scikit-learn, Matplotlib
-  
-[🔗 Ver Proyecto](https://github.com/sappDS96/Tripleten/tree/a48236c25b663d3466ddc1201b24204041f8a557/05_rentabilidad_planes_moviles)  
-
----
-
-## 🔄 **Análisis de cohortes para retención de clientes – Sprint 6**
-- 📊 Implementé análisis de cohortes en Python para medir la retención de clientes.
-- 📉 Visualicé tasas de retención y el comportamiento de los clientes a lo largo del tiempo.
-- 🛠️ Herramientas: Python, Pandas, Matplotlib
-  
-[🔗 Ver Proyecto](https://github.com/sappDS96/Tripleten/tree/a48236c25b663d3466ddc1201b24204041f8a557/06_preferencias_videojuegos_validacion) 
 
 
 ---
 
 # 🚀 Data Science Projects  
+
+## **🧪 Optimización del proceso de flotación – recuperación de oro - Sprint 12**
+- 🧼 Cleaned and prepared data; analyzed stage-wise composition and size distribution.
+- 📈 Modeled with Linear Regression, Decision Trees & Random Forest using cross-validation.
+- 🎯 Final metric 25/75 (rougher/final) and visualizations to support operations.  
+- 🛠️ Herramientas: ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white) ![matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white)  
+  
+[🔗 View Project](https://github.com/sappDS96/Tripleten/tree/37e6af91a09e3459cc51b3dbd7b72b8c58a08b3d/09_Predicci%C3%B3n_de_Abandono_de_Clientes)
+
+---
+
+## **🛢️ Drilling Region Selection – Sprint 11**
+- 📊 Ranked top-200 wells by region and expected revenue (price/CAPEX assumptions).
+- 🎲 Bootstrapping (1000) → profit distribution, 95% CI and loss probability.
+- ⚖️ Final recommendation balancing return and risk.  
+- 🛠️ Herramientas: ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white) ![matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white)  
+  
+[🔗 View Project](https://github.com/sappDS96/Tripleten/tree/37e6af91a09e3459cc51b3dbd7b72b8c58a08b3d/09_Predicci%C3%B3n_de_Abandono_de_Clientes) 
+
+
+---
+
+
+## ⚖️**Classification with Imbalanced Classes – Sprint 10**
+- 🧹 Data prep (OHE, scaling) and balancing (upsampling, downsampling, class_weight).  
+- 🎯 Threshold tuning based on target (recall/precision) and model comparison.
+- 📉 Deliverables: confusion matrix, ROC/PR curves, and threshold recommendation.
+- 🛠️ Herramientas: ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white) ![matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white)  
+  
+[🔗 View Project](https://github.com/sappDS96/Tripleten/tree/37e6af91a09e3459cc51b3dbd7b72b8c58a08b3d/09_Predicci%C3%B3n_de_Abandono_de_Clientes) 
+
+
+---
 
 ## 🛰️ Customer Churn Prediction (Telecom) – Sprint 9  
 - 🔍 Predicted churn using Decision Trees, Random Forest & Logistic Regression.  
@@ -86,23 +131,6 @@
 
 [🔗 View Project](https://github.com/sappDS96/Tripleten/tree/37e6af91a09e3459cc51b3dbd7b72b8c58a08b3d/08_Predicci%C3%B3n_de_ingresos_de_videojuegos)
 
----
-
-## 📡 Customer Segmentation with Clustering – Sprint 5  
-- 📈 Applied KMeans for unsupervised customer segmentation.  
-- 💡 Identified consumption patterns and marketing insights.  
-- 🛠️ Tools: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=plotly&logoColor=white)  
-
-[🔗 View Project](https://github.com/sappDS96/Tripleten/tree/a48236c25b663d3466ddc1201b24204041f8a557/05_rentabilidad_planes_moviles)  
-
----
-
-## 🔄 Cohort Analysis for Customer Retention – Sprint 6  
-- 📊 Applied cohort analysis in Python to measure customer retention.  
-- 📉 Visualized retention rates and customer behavior over time.  
-- 🛠️ Tools: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=plotly&logoColor=white)  
-
-[🔗 View Project](https://github.com/sappDS96/Tripleten/tree/a48236c25b663d3466ddc1201b24204041f8a557/06_preferencias_videojuegos_validacion)
 
 ---
 
@@ -114,5 +142,5 @@
 
 ---
 
-✨ *Siempre aprendiendo, siempre construyendo | Always learning, always building* ✨
+✨ *Siempre aprendiendo, siempre construyendo | Always learning, always building*
 
