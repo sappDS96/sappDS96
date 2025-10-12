@@ -45,7 +45,7 @@
 - 📊 Ranking de top-200 pozos por región e ingresos esperados (precio/CAPEX).
 - 🎲 Bootstrapping (1000) → distribución de beneficios, IC95% y probabilidad de pérdida.
 - ⚖️ Recomendación final balanceando retorno y riesgo.
-- 🛠️ Herramientas: ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) ![matplotlib]([https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white](https://github.com/sappDS96/Tripleten/tree/d14147fa119c462ca37c19cbc445303cb23cab57/11_Selecci%C3%B3n_regi%C3%B3n_para_perforaci%C3%B3n_(Bootstrapping)))  
+- 🛠️ Herramientas: ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) ![matplotlib]([https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white])
   
 [🔗 Ver Proyecto](11_Selección_región_para_perforación_(Bootstrapping)) 
 
