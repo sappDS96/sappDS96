@@ -19,12 +19,31 @@
 ---
 
 ## 🛠️ Tech Stack | Tecnologías  
+## 🛠️ Tech Stack | Tecnologías  
+
+<table>
+  <tr>
+    <td>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white)  
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)  
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
+
+  </td>
+  <td>
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
+![DAX](https://img.shields.io/badge/DAX-0C2233?style=for-the-badge&logo=powerbi&logoColor=F2C811)  
+![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)  
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  
+
+  </td>
+  </tr>
+</table>
 
 
 ---
@@ -39,7 +58,7 @@
 - 📈 Diseñé un dashboard industrial en Power BI con enfoque ejecutivo, exploratorio, predictivo y de optimización operativa.
 - 🛠️ Herramientas: ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?logo=xgboost&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
 
-[🔗 Ver Proyecto](https://github.com/sappDS96/optimizacion-turbina-gas-ml-powerbi)
+[🔗 Ver Proyecto](https://github.com/sappDS96/analisis-predictivo-turbina-gas)
 
 ---
 
@@ -85,23 +104,6 @@
 
 ---
 
-## 🛰️ **Predicción de abandono de clientes (Telecom) – Sprint 9**
-- 🔍 Predije el churn utilizando Árboles de Decisión, Bosques Aleatorios y Regresión Logística.
-- 📊 Comparé múltiples modelos de Machine Learning y seleccioné el más preciso.
-- 🛠️ Herramientas: ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white) ![matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white)  
-  
-[🔗 Ver Proyecto](https://github.com/sappDS96/Tripleten/tree/37e6af91a09e3459cc51b3dbd7b72b8c58a08b3d/09_Predicci%C3%B3n_de_Abandono_de_Clientes) 
-
----
-
-## 🎮 **Predicción de ingresos de videojuegos – Sprint 8**
-- 🧠 Construí modelos predictivos (regresión y clasificación) para estimar ventas.
-- ⚙️ Ajusté hiperparámetros para optimizar las métricas de desempeño.
-- 🛠️ Herramientas: ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)
-  
-[🔗 Ver Proyecto](https://github.com/sappDS96/Tripleten/tree/37e6af91a09e3459cc51b3dbd7b72b8c58a08b3d/08_Predicci%C3%B3n_de_ingresos_de_videojuegos)
-
-
 ---
 
 # 🚀 Data Science Projects  
@@ -114,7 +116,7 @@
 - 📈 Designed an industrial Power BI dashboard with executive, exploratory, predictive and operational optimization views.
 - 🛠️ Tools: ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?logo=xgboost&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
 
-[🔗 View Project](https://github.com/sappDS96/optimizacion-turbina-gas-ml-powerbi)
+[🔗 View Project](https://github.com/sappDS96/analisis-predictivo-turbina-gas)
 
 ---
 
@@ -163,23 +165,6 @@
 
 ---
 
-## 🛰️ Customer Churn Prediction (Telecom) – Sprint 9  
-- 🔍 Predicted churn using Decision Trees, Random Forest & Logistic Regression.  
-- 📊 Compared multiple ML models and selected the most accurate one.  
-- 🛠️ Tools: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=plotly&logoColor=white)  
-
-[🔗 View Project](https://github.com/sappDS96/Tripleten/tree/37e6af91a09e3459cc51b3dbd7b72b8c58a08b3d/09_Predicci%C3%B3n_de_Abandono_de_Clientes)  
-
----
-
-## 🎮 Video Game Revenue Prediction – Sprint 8  
-- 🧠 Built predictive models (regression & classification) to estimate sales.  
-- ⚙️ Tuned hyperparameters to optimize performance metrics.  
-- 🛠️ Tools: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)  
-
-[🔗 View Project](https://github.com/sappDS96/Tripleten/tree/37e6af91a09e3459cc51b3dbd7b72b8c58a08b3d/08_Predicci%C3%B3n_de_ingresos_de_videojuegos)
-
-
 ---
 
 ## 🌐 Connect with me | Conecta conmigo  
@@ -191,5 +176,4 @@
 ---
 
 ✨ *Siempre aprendiendo, siempre construyendo | Always learning, always building*
-
 
